@@ -5,6 +5,7 @@ import pygame
  
 # define a main function
 def main():
+    exit()
     # input burst times
     bt="1 2 5 3 7 4 8"#input("input burst times:")
     # make it into an array
